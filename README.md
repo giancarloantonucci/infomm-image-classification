@@ -1,4 +1,4 @@
-# Image Classification
+# Image classification
 
 Submitted as part of the CDT in Industrially Focused Mathematical Modelling at the University of Oxford.
 
